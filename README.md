@@ -67,4 +67,10 @@
     - [参考资料](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 
 
+##3.学习资料
+
+  * [flux-chat](https://github.com/facebook/flux/tree/master/examples/flux-chat)
+  * [flux-todomvc](https://github.com/facebook/flux/tree/master/examples/flux-todomvc)
+  * [Flux傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
+  * [Flux:Actions and Dispatcher](http://www.tuicool.com/articles/ABz6jq) 
 
